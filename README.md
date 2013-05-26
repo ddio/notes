@@ -1,4 +1,4 @@
-notes
-=====
+立志要成為blog的markdown們 XD
+=============================
 
-notes
+研究 [docpad] (http://docpad.org/) 中...
